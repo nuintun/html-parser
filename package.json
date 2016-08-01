@@ -1,0 +1,41 @@
+{
+  "name": "fengine",
+  "version": "0.0.1",
+  "description": "A development tool for f2e",
+  "author": {
+    "name": "nuintun",
+    "email": "nuintun@qq.com"
+  },
+  "homepage": "https://nuintun.github.io/fengine",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nuintun/fengine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nuintun/fengine/issues",
+    "email": "nuintun@qq.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bin": {
+    "fengine": "bin/fengine"
+  },
+  "keywords": [
+    "f2e",
+    "server",
+    "http",
+    "development",
+    "http server",
+    "development tool"
+  ],
+  "dependencies": {
+    "tilda": "^4.3.1",
+    "ncname": "^1.0.0",
+    "colors": "^1.1.2",
+    "js-yaml": "^3.6.1",
+    "file-send": "^2.0.1"
+  },
+  "readmeFilename": "README.md"
+}
