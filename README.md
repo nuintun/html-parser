@@ -1,2 +1,2 @@
 # html-parser
-A tiny html parser library
+> A tiny html parser library
